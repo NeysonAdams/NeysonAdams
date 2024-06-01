@@ -29,6 +29,9 @@ I'm a passionate software developer with a focus on creating impactful solutions
 [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://www.linux.org/)
 [![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu--v1.png)](https://ubuntu.com/)
 [![macOS](https://img.icons8.com/color/48/000000/mac-os.png)](https://www.apple.com/macos/)
+[![Game Development](https://img.icons8.com/color/48/000000/game-controller.png)](https://www.gamedev.net/)
+[![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.mysql.com/)
+[![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://www.mongodb.com/)
 
 Feel free to reach out if you have any questions, collaborations, or just want to connect. I'm always open to new opportunities and interesting discussions!
 
