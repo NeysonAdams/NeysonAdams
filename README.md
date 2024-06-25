@@ -1,4 +1,4 @@
-##№ Hi there 👋, I'm Nias Adamov!
+### Hi there 👋, I'm Nias Adamov!
 
 I'm a passionate software developer with a focus on creating impactful solutions through code. 
 😄Welcome to my GitHub profile!😄
