@@ -3,7 +3,7 @@
 I'm a passionate software developer with a focus on creating impactful solutions through code. 
 😄Welcome to my GitHub profile!😄
 
-##№ About Me
+### About Me
 - 🌱 I’m currently learning and exploring new technologies in web development and cloud computing.
 - 💼 I work as a Unity Game Developer.
 - 🎓 I hold a degree in Computer Sience from Tashkent Univercity of Information Technologies.
