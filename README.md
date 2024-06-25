@@ -5,7 +5,7 @@ I'm a passionate software developer with a focus on creating impactful solutions
 
 ##№ About Me
 - 🌱 I’m currently learning and exploring new technologies in web development and cloud computing.
-- 💼 I work as a Unity Game Developer at BeachBum.
+- 💼 I work as a Unity Game Developer.
 - 🎓 I hold a degree in Computer Sience from Tashkent Univercity of Information Technologies.
 - 📍 Based in ISRAEL. 🇮🇱
   
